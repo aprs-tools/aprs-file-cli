@@ -1,0 +1,4 @@
+argparse
+bitarray
+audiogen
+bs4
